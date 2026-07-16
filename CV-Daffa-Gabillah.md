@@ -1,15 +1,3 @@
-# Curriculum Vitae/Resume
-Name: Daffa Gabillah Maulana Gapur<br>
-Email: daffa.gabillah@gmail.com<br>
-WhatsApp (WA): https://wa.me/+6289517564455/<br>
-LinkedIn: https://www.linkedin.com/in/daffa-gabillah/<br>
-<br>
-## CV Link
-CV dalam bentuk file PDF: [cv_file_pdf]()<br>
-CV dalam bentuk file md: [cv_file_md_markdown]()
-
-
-
 # Curriculum Vitae
 
 ## Name: Daffa Gabillah Maulana Gapur
@@ -119,7 +107,3 @@ LinkedIn: [https://www.linkedin.com/in/daffa-gabillah/](https://www.linkedin.com
    1. Creating Instagram feeds.
    2. Making posters.
    3. Documenting the event using a DSLR camera.
-
-
-
-
