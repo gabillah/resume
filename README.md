@@ -5,8 +5,8 @@ WhatsApp (WA): https://wa.me/+6289517564455/<br>
 LinkedIn: https://www.linkedin.com/in/daffa-gabillah/<br>
 <br>
 ## CV Link
-CV dalam bentuk file PDF: [cv_file_pdf]()<br>
-CV dalam bentuk file md: [cv_file_md_markdown]()
+CV dalam bentuk file PDF: [cv_file_pdf](https://github.com/gabillah/resume/blob/main/CV-Daffa-Gabillah.pdf)<br>
+CV dalam bentuk file md: [cv_file_md_markdown](https://github.com/gabillah/resume/blob/main/CV-Daffa-Gabillah.md)
 
 
 
