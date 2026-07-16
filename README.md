@@ -42,7 +42,7 @@ LinkedIn: [https://www.linkedin.com/in/daffa-gabillah/](https://www.linkedin.com
 
 ## 4. Work Experience
 
-1. Job position: Student Intern at PT PAL (Persero)
+1. Job position: Student Intern at PT PAL (Persero)<br>
    Division: Design Division, Machinery Outfitting Department.<br>
    Period: 21st February 2025 – 7th July 2025.<br>
    Type of business: Shipbuilding.<br>
